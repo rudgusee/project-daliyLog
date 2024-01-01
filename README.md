@@ -1,2 +1,3 @@
-# project-daliyLog
+# [패스트캠퍼스-게시판서비스]
 Java와 Spring Boot를 이용해 하루 일과를 작성하는 게시판 서비스를 개발 중입니다.
+출처) 10개프로젝트로완성하는백엔드웹개발(Java/Spring) 초격차패키지Online.
